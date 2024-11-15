@@ -1,0 +1,1 @@
+simple test project testing tesseract to read in labels from an image and convert to text.
